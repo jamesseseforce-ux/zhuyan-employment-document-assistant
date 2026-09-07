@@ -1,39 +1,72 @@
-铸言企业用工文书助手专有有限使用许可
-Zhuyan Enterprise Employment Document Assistant Proprietary Limited-Use License
+铸言企业用工文书助手免费内部使用限制性许可证
+Zhuyan Enterprise Employment Document Assistant Free Internal-Use Restricted License
 
-Copyright © 2026 铸言（Zhuyan）. All rights reserved.
+Copyright © 2026 崔凯。保留所有权利。
+Copyright © 2026 Cui Kai. All rights reserved.
 
-一、许可范围
+一、适用对象
 
-在遵守本许可的前提下，个人及企业最终用户可下载、安装并使用本软件的未修改版本，用于自身内部、合法的企业用工文书辅助工作。
+本许可证适用于“铸言企业用工文书助手”的SKILL.md、程序、规则、能力卡、文书目录、参考资料、界面元数据、发布包及其他随附内容（以下统称“本产品”）。第三方组件仍适用其各自许可证。
 
-二、禁止行为
+本产品不是开源软件。除本许可证明确授予的权利外，其他权利均由著作权人崔凯保留。
+
+二、免费许可
+
+在遵守本许可证的前提下，著作权人授予个人及企业最终用户一项免费、非独占、不可转让、不可再许可、可撤销的许可，用于：
+
+1. 下载、安装和运行本产品；
+2. 为本人或本企业内部合法的招聘、用工管理、劳动争议预防及处理生成文书或方案；
+3. 根据真实业务需要修改生成结果；
+4. 为实际用工或争议处理，将生成结果提供给相关员工、工会、行政机关、仲裁机构、法院以及负有保密义务的外聘律师或顾问。
+
+上述对生成结果的必要提交、送达或案件使用，不属于本许可证所禁止的“二次分发”。
+
+三、禁止商业转售
 
 未经著作权人事先书面许可，不得：
 
-1. 出售、出租、再许可、公开再分发本软件或其主要组成部分；
-2. 删除或改变“铸言”名称、著作权声明、免责声明或其他权利标识；
-3. 批量提取、复制或重建文书目录、能力卡、规则、模板结构及未公开底库；
-4. 将本软件、输出规则或文书能力库用于训练模型、建立数据集或开发具有实质竞争关系的文书产品；
-5. 利用本软件实施违法行为，或者伪造、倒签、销毁、隐匿事实与证据。
+1. 出售、出租、出借、再许可本产品或其实质部分；
+2. 以收费下载、付费会员、代安装、账号共享、接口服务、SaaS服务、平台内购或其他形式向第三方提供本产品访问权；
+3. 将本产品、其文书库、能力卡、规则或模板作为商品、课程资料、会员资料、咨询产品附件或其他收费产品的主要组成部分；
+4. 通过修改名称、标识、文件结构或少量内容，将本产品包装成自有产品进行销售或收费使用。
 
-三、原始文书与商标
+四、禁止二次分发
 
-八卷原始DOCX文书、未公开底库、品牌、标识及其他未在本仓库明确授予的权利，均由权利人保留。本许可不构成著作权、商标权或其他知识产权的转让。
+未经著作权人事先书面许可，不得公开或非公开地复制、上传、发布、分享、传播本产品的全部或实质部分，包括修改版、删减版、翻译版、拆分文件、镜像、网盘副本、代码仓库副本及重新打包版本。
 
-四、免责声明
+企业可让本企业员工和受保密义务约束的服务人员在企业内部为第二条目的使用，但不得向关联公司、客户、会员、社群或其他第三方提供可独立安装、复制或继续传播的产品副本。
 
-本软件及其输出按“现状”提供，不作任何明示或默示保证。法律文书和风险提示不代表法律意见，内容仅供参考。用户应自行核验个案事实、证据、当地规则及裁判尺度，并自行承担使用风险和责任。
+五、禁止竞品训练和重建
 
-五、终止
+未经著作权人事先书面许可，不得：
 
-违反本许可时，许可自动终止。终止后应停止使用并删除所持有的本软件副本，但依法必须保存的记录除外。
+1. 使用本产品或其输出批量训练、预训练、微调、蒸馏、评估任何模型；
+2. 将文书、提示词、规则、能力卡、目录、字段、流程或输出结构导入数据集、向量数据库、检索增强生成系统（RAG）、知识库或自动化工作流，用于开发或改进与本产品具有实质竞争关系的产品或服务；
+3. 批量提取、爬取、复制、反向整理或重建本产品的文书库、规则层、能力目录、提示逻辑或评价体系；
+4. 利用多个账号、自动化工具或其他方式规避上述限制。
+
+将单份生成结果用于本企业真实个案，不视为竞品训练；将生成结果系统性收集为训练材料、模板库或竞争性知识库，属于禁止行为。
+
+六、署名和权利标识
+
+不得删除、遮盖或篡改“崔凯”“铸言”、版权声明、许可证、免责声明及其他权利标识。对生成文书作个案编辑时，可以删除不适合出现在对外文书正文中的产品说明，但不得据此主张本产品、底层文书库或规则的著作权。
+
+七、合法使用与免责声明
+
+不得利用本产品伪造签字、倒签历史材料、销毁或隐匿证据，或者实施其他违法行为。
+
+本产品及其输出按“现状”提供，不作任何明示或默示保证。法律文书和风险提示不代表法律意见，内容仅供参考。用户应结合真实事实、证据、当地规则和裁判尺度核验，并自行决定是否使用及承担相应风险和责任。
+
+八、终止和保留权利
+
+用户违反本许可证时，许可自动终止。用户应立即停止使用并删除所持有的本产品及其副本；依法必须保存的案件或业务记录除外。许可终止不影响著作权人依法追究既往违约、侵权或其他责任。
+
+如需商业转售、平台集成、二次分发、模型训练或其他超出本许可证的使用，应另行取得著作权人崔凯的书面许可。
+
+九、文本效力
+
+本许可证中英文含义不一致时，以中文文本为准。
 
 ---
 
-Subject to this License, individual and enterprise end users may download, install, and use an unmodified copy of the Software solely for lawful internal employment-document assistance.
-
-No permission is granted to sell, sublicense, publicly redistribute, remove attribution, extract or reconstruct the document capability library, use the Software or its rules for model training or dataset creation, or develop a substantially competing document product without prior written permission.
-
-The original eight-volume DOCX corpus, unpublished source materials, trademarks, branding, and all rights not expressly granted remain reserved. The Software and its outputs are provided “as is,” without warranty, and do not constitute legal advice.
-
+English summary: Individuals and organizations may use the Product free of charge for their own lawful internal employment management and may use generated documents in real employment or dispute matters. Commercial resale, sublicensing, paid access, redistribution of the Product or substantial portions, competitive model training, dataset or RAG ingestion, systematic extraction, and reconstruction of the document library or rule system are prohibited without prior written permission from the copyright owner, Cui Kai. This summary does not replace the Chinese terms above.
